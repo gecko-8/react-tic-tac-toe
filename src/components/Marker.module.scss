@@ -1,0 +1,27 @@
+.marker {
+  height: 100%;
+  width: 100%;
+  background: darkgreen;
+  border-radius: 8px;
+
+  &.winner {
+    background: orange;
+  }
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mark {
+  height: 80%;
+  width: 80%;
+
+  path {
+    color: white;
+  }
+}
