@@ -11,7 +11,7 @@ This project demonstrates the use of the React (v18) useReducer hook to manage g
 
 ## Try It on StackBlitz
 
-1. Click this link: [StackBlitz](https://stackblitz.com/github/gecko-8/react-tic-tac-toe)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/gecko-8/react-tic-tac-toe)
 
 ## To Try on Your Computer
 
