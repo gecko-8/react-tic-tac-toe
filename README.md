@@ -1,6 +1,6 @@
 # react-tic-tac-toe
 
-This project demonstrates the use of the React (v18) useReducer hook to manage game data for a simple Tic Tac Toe game.
+This project demonstrates the use of the React (v18) useReducer hook to manage game data for a simple Tic Tac Toe game. To view the same game built in Vue.js 3 with both the Options and Composition API, checkout [Vue.js Tic Tac Toe](https://github.com/gecko-8/vue3-tic-tac-toe).
 
 ## Notes
 
